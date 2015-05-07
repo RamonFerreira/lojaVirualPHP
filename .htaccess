@@ -1,0 +1,33 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+ReWriteRule ^login\/?$ app/login.php?pagina=$0 [NC,L]	
+ReWriteRule ^cadastro/?$ app/cadastro.php [NC,L]	
+ReWriteRule ^inicio/?$ index.php [NC,L]
+
+
+ReWriteRule ^admin\/([a-z]+)\/?$ app/view/private/index.php?page=$1 [NC,L]
+ReWriteRule ^admin\/([a-z]+)\/([a-z,0-9]+)\/?$ app/view/private/index.php?page=$1&cmd=$2 [NC,L]
+ReWriteRule ^admin\/([a-z]+)\/([a-z,0-9]+)\/([a-z,0-9]+)\/?$ app/view/private/index.php?page=$1&cmd=$2&id=$3 [NC,L]
+
+
+#ReWriteRule ^([a-z]+)\/?$ webApp/site/pagina/index.php?pais=$1 [NC,L]
+#ReWriteRule ^([a-z]+)\/([a-z]+)\/?$ webApp/site/pagina/index.php?pais=$1&uf=$2 [NC,L]	
+#ReWriteRule ^([a-z]+)\/([a-z]+)\/([a-z,_-]+)\/?$ webApp/site/pagina/index.php?pais=$1&uf=$2&ac=$3 [NC,L]		
+
+#ReWriteRule ^produto/?$ webApp/site/pagina/index.php?id=$1 [NC,L]	
+#ReWriteRule ^produto/([0-9]+)\/?$ webApp/site/pagina/index.php?pagina=$1 [NC,L]
+
+#ReWriteRule ^admin/?$ webApp/admin/pagina/index.php [NC,L]	
+#ReWriteRule ^admin/([a-z]+)\/?$ webApp/admin/pagina/index.php?pagina=$1 [NC,L]
+
+
+
+ErrorDocument 400 /app/pagina/erros/400.php
+ErrorDocument 401 /app/pagina/erros/401.php
+ErrorDocument 403 /app/pagina/erros/403.php
+ErrorDocument 404 /erros/404.php
+ErrorDocument 500 /app/pagina/erros/500.php
+#Login: 2002500012 Senha: 7860

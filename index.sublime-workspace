@@ -1,0 +1,531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strlw",
+				"strtolower"
+			],
+			[
+				"bre",
+				"break"
+			],
+			[
+				"FFF",
+				"FFFFFF"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"dt",
+				"dtmodificacao"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"hre",
+				"href	Attr"
+			],
+			[
+				"h",
+				"html	html"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/produto",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/public"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/wrapper.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/produto/cadastrarProduto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/departamento/cadastrarDepartamento.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/marca/cadastrarMarca.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/departamento/departamento.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/weather.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/produto/listarProduto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/marca/listarMarca.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/departamento/listarDepartamento.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/cadastro.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/datepaginator/bootstrap-datepaginator.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/bootstrap-datepicker/bootstrap-datepicker.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/demo/demo-app-ecommerce-order-list.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Login.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/produto/produto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/produto/listarProduto",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/marca/marca.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/sindebar.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/site/topo.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/site/menu.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/controller/loginController.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/topo.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/DepartamentoProduto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/.settings/org.eclipse.php.core.prefs",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/inicioHtml.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/conteudo.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/smartmenus/jquery.smartmenus.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-pagedown/js/Markdown.Editor.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Marca.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/TamanhoVestuarioProduto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/banco.sql",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/controller/DepartamentoController.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Departamento.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/bootstrap/tables.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/demo/demo-tableeditable.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/css/styles.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/demo/demo-tableeditable.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/demo/demo-alerts.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/tabs.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/demo/demo-tables-advanceddatatables.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/Ion.RangeSlider/css/ion.rangeSlider.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/bootstrap/component-animations.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/fundo.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jquery-fileupload/js/load-image.min.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/inicio/inicio.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/site/assets/css/style.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jquery-fileupload/css/style.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/gridforms/media/style.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jScrollPane/themes/lozenge/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-select2/select2_locale_id.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/iCheck/skins/line/yellow.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/tiles.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/demo/demo-custom-skylo.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/smartmenus/addons/keyboard/jquery.smartmenus.keyboard.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/styles.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/summernote/test/unit.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/config.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-ckeditor/config.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Fornecedor.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/site/assets/fonts/fontawesome-webfont.svg",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/site/assets/fonts/DroidSans-webfont.svg",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jScrollPane/image.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jScrollPane/issues/12/wrapped.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Produto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/demo/demo-ui-tiles.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/Header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jScrollPane/scroll_to.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/MySQL.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/.settings/org.eclipse.wst.common.project.facet.core.xml",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/site/assets/js/bootstrap.touchspin.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/bootstrap-touchspin/.travis.yml",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/.buildpath",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/Ion.RangeSlider/css/ion.rangeSlider.skinNice_.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/plugins/jScrollPane/issues/12/wrapped.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/tables-fixedheader/examples/header_footer.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/rightbar.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/bootstrap/responsive-embed.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/summernote/src/js/EventHandler.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/site/fundo.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/demo/demo-custom-ionrange.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/inicio.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/fProduto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/DadosVestuario.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Usuario.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/TamanhoVestuario.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/TamnhoVetuario.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/fMarca.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-pagedown/js/Markdown.Converter.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/model/Endereco.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/business/EnderecoBusiness.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/persistence/EnderecoDAO.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/extend-nav.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/business/LoginBusiness.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/login.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/less/weather.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/bootstrap/wells.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/less/bootstrap/wells.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-xeditable/inputs-ext/wysihtml5/wysihtml5.js",
+		"/C/Users/trferreira/Desktop/Ramon/Desenvolvimento/SITES/products-WB0571052/admin_html/app-ecommerce-product-edit.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/fLogin.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-markdown/css/bootstrap-markdown.min.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/fCadastro.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/index.sublime-project",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/plugins/form-ckeditor/lang/id.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/pricing-table.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-ckeditor/lang/he.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/summernote/lang/summernote-es-ES.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/less/bootstrap/mixins/text-overflow.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/less/app-ecommerce.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/simpleWeather/CHANGELOG.md",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/include/adm/marca/listaMarca.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fa.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/site/assets/js/jquery.blImageCenter.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/view/private/assets/less/bootstrap/buttons.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/iCheck/skins/flat/purple.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/summernote/lang/summernote-fi-FI.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/fullcalendar/fullcalendar.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/iCheck/skins/flat/yellow.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jquery-fileupload/jquery-ui.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/form-pagedown/css/jquery.pagedown-bootstrap.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/fullcalendar/bootstrap-fullcalendar.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC9/data/localweb/T&C/app/resources/administrativo/assets/plugins/jquery-fileupload/CONTRIBUTING.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".sidebar-default.fixed-sidebar",
+			".sidebar-default.static-sidebar-wrapper, .sidebar-default.fixed-sidebar",
+			".navbar-default {",
+			"//#",
+			"//",
+			"#topnav.navbar-inverse .navbar-nav > .open > a,",
+			"#topnav.navbar-inverse .navbar-nav > .open > a, ",
+			"#topnav.navbar-inverse ",
+			"#topnav.navbar-inverse .navbar-nav > .open > a, #topnav.navbar-inverse .navbar-nav > .open > a:hover, #topnav.navbar-inverse .navbar-nav > .open > a:focus {",
+			".static-content-wrapper {",
+			"DepartamentoProduto",
+			"Produto.php",
+			"cadastro",
+			"listaDepartamento.php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cadastrar",
+				"app\\include\\adm\\marca\\cadastrarMarca.php"
+			],
+			[
+				"cadastrard",
+				"app\\include\\adm\\departamento\\cadastrarDepartamento.php"
+			],
+			[
+				"w",
+				"app\\include\\adm\\wrapper.php"
+			],
+			[
+				"listap",
+				"app\\include\\adm\\produto\\listarProduto.php"
+			],
+			[
+				"listamarca",
+				"app\\include\\adm\\marca\\listarMarca.php"
+			],
+			[
+				"lista",
+				"app\\include\\adm\\departamento\\listarDepartamento.php"
+			],
+			[
+				"listader",
+				"app\\include\\adm\\departamento\\listarDepartamento.php"
+			],
+			[
+				"cadastrardpa",
+				"app\\include\\adm\\departamento\\cadastrarDepartamento.php"
+			],
+			[
+				"topo.php",
+				"app\\include\\site\\topo.php"
+			],
+			[
+				"departamento",
+				"app\\include\\adm\\departamento\\departamento.php"
+			],
+			[
+				"topo",
+				"app\\include\\site\\topo.php"
+			],
+			[
+				"menu",
+				"app\\include\\site\\menu.php"
+			],
+			[
+				"cadastrardeparta",
+				"app\\include\\adm\\departamento\\cadastrarDepartamento.php"
+			],
+			[
+				"departamn",
+				"app\\include\\adm\\departamento\\departamento.php"
+			],
+			[
+				"listardepartamento",
+				"app\\include\\adm\\departamento\\listarDepartamento.php"
+			],
+			[
+				"demotable",
+				"app\\resources\\administrativo\\assets\\demo\\demo-tableeditable.js"
+			],
+			[
+				"cadastrardepartamento",
+				"app\\include\\adm\\departamento\\cadastrarDepartamento.php"
+			],
+			[
+				"cadastrarmarca",
+				"app\\include\\adm\\marca\\cadastrarMarca.php"
+			],
+			[
+				"listade",
+				"app\\include\\adm\\departamento\\listarDepartamento.php"
+			],
+			[
+				"listadeparta",
+				"app\\include\\adm\\departamento\\listarDepartamento.php"
+			],
+			[
+				"sty",
+				"app\\resources\\administrativo\\assets\\css\\styles.css"
+			],
+			[
+				"style.css",
+				"app\\resources\\administrativo\\assets\\plugins\\jquery-fileupload\\css\\style.css"
+			],
+			[
+				"style",
+				"app\\resources\\site\\assets\\css\\style.css"
+			],
+			[
+				"imarca",
+				"app\\include\\adm\\marca\\marca.php"
+			],
+			[
+				"wr",
+				"app\\include\\adm\\wrapper.php"
+			],
+			[
+				"marca",
+				"app\\model\\Marca.php"
+			],
+			[
+				"produ",
+				"app\\model\\Produto.php"
+			],
+			[
+				"wh",
+				"app\\resources\\administrativo\\assets\\plugins\\jScrollPane\\issues\\12\\wrapped.html"
+			],
+			[
+				"heade",
+				"app\\include\\adm\\Header.php"
+			],
+			[
+				"fundo.php",
+				"app\\include\\adm\\fundo.php"
+			],
+			[
+				"inicio",
+				"app\\include\\adm\\inicio\\inicio.php"
+			],
+			[
+				"inici",
+				"app\\include\\inicioHtml.php"
+			],
+			[
+				"produt",
+				"app\\model\\Produto.php"
+			],
+			[
+				"fornecedor",
+				"app\\model\\Fornecedor.php"
+			],
+			[
+				"endereco",
+				"app\\model\\Endereco.php"
+			],
+			[
+				"login",
+				"app\\model\\Login.php"
+			],
+			[
+				"banco",
+				"banco.sql"
+			],
+			[
+				"fmarca",
+				"app\\include\\adm\\fMarca.php"
+			],
+			[
+				"fproduto",
+				"app\\include\\adm\\fProduto.php"
+			],
+			[
+				"produto.php",
+				"app\\include\\adm\\fProduto.php"
+			],
+			[
+				"header",
+				"app\\include\\adm\\Header.php"
+			],
+			[
+				"wrapper",
+				"app\\include\\adm\\wrapper.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\T&C",
+				"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\T&C\\index.sublime-workspace"
+			],
+			[
+				"",
+				"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\T&C\\index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Usuario",
+				"Usuario"
+			],
+			[
+				"",
+				"tb_usuario"
+			]
+		],
+		"width": 704.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
